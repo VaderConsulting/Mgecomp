@@ -1,6 +1,6 @@
 # Mgecomp
 
-VB6 working copy of `Mgecomp` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: MgeComp. Output: `MgeComp.exe`.
+VB6 Manage Computers utility (`MgeComp.exe`) that lists domain computers and shows per-machine status (up/down via ping/IP, WMI `Win32_ComputerSystem` DomainRole) with config from `Mgecomp.ini` and an audit trail. Open `Mgecomp.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
